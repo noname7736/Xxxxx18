@@ -1,0 +1,8 @@
+{
+  "description": "มหาเอกภาพเร้าเตอร์ข้อมูลสายไหมสมบูรณ์แบบ - ระบบบูรณาการ Enterprise Core โดยใช้ Google Gemini API สำหรับการดักจับและวิเคราะห์พฤติกรรมเป้าหมายเชิงลึก ไร้ร่องรอย และราบรื่นที่สุด",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "name": "Copy of Absolute Cotton Candy Nexus"
+}
